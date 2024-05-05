@@ -1,0 +1,1 @@
+import{l as t,b as s,c,C as a}from"./BQ-N0u34.js";const o={},n={class:"quotes w-full select-all bg-main text-center italic"};function l(e,r){return s(),c("div",n,[a(e.$slots,"default",{},void 0,!0)])}const _=t(o,[["render",l],["__scopeId","data-v-de40d85a"]]);export{_ as default};
